@@ -1,23 +1,19 @@
-# Hi there 👋, I'm Muzni
-## Cyber Security Enthusiast 
-
-Thanks for hopping by my Cyber Security portfolio.
+# Hi there 👋, My name is Muzni
+## Welcome to my home of Cybersecurity Projects. 
 
 ## :technologist: A bit about me :) <br>
-<p> I am a Dad of two beautiful kids. I am also a Cybersecrity and Technical Support Analyst living in the beautiful island nation New Zealand where theres not short of breathtaking views, pristine rivers, and the home of Rugby, Cricket and yummy oyster. <br>
+<p>I'm a dad and a cybersecurity enthusiast living in New Zealand, where breathtaking views, pristine rivers, rugby, cricket, and oysters are all on the menu. :smiley: <br>
+<!-- COMMENT  <p> I love cooking, Travelling & tech stuff. <br> -->
+<!-- COMMENT <p> I cook delicious Asian dishes such as Chicken Tikka, Chicken Kadai, Mutton Curry and Biriyani.<br>
+<p> I have lived in the UK, travelled around Europe and to Dubai <br>
+<p> I Have over 10 years ofexperience as a Technical Analyst and in cyber security, spanning various organizations, including major telecommunications companies. I am currently a CyberSecurity Analyst at a large telecommunications company and MSSP in New Zealand. <br> </p>  -->
 
+- :trophy: I’m a Certified Security Blue Team Level-1 (BTL1) Incident Responder
 - 🌱 I’m currently learning for PNPT 
 - 👯 I’m looking to collaborate on Cyber Security Blue , Red & Purple team stuff with like minds
 
-<p> In addition to Cyber Security I love cooking, Travelling & tech stuff. <br>
-<p> I cook delicious Asian dishes such as Chicken Tikka, Chicken Kadai, Mutton Curry and Biriyani.<br>
-<p> I have lived in the UK, travelled around Europe and to Dubai <br>
-<p> I Have over 10 years ofexperience as a Technical Analyst and in cyber security, spanning various organizations, including major telecommunications companies. I am currently a CyberSecurity Analyst at a large telecommunications company and MSSP in New Zealand. <br> </p> 
 
-
-
-
-## :medal_military::medal_military:=========== Some of my Skills are ============ :medal_military::medal_military:
+## :mechanical_arm: ====== Some of my Skills are ====== :mechanical_arm:
 <p> DDoS Mitigation <br>
 <p>Network Analysis <br>
 <p>Log Analysis <br>
